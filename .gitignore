@@ -1,0 +1,39 @@
+Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Windows temporary files
+
+*.tmp
+*.temp
+*.bak
+*.log
+
+Editor and IDE settings
+
+.vscode/
+.idea/
+
+Temporary exports and backups
+
+*.pcap
+*.pcapng
+*.cap
+
+Local secrets and credentials
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+Temporary archives
+
+*.zip
+*.7z
+*.rar
